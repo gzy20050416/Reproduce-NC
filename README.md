@@ -24,7 +24,7 @@ NC/
 ```text
 bash 01_download.sh
 bash 02_make_csv.sh
-bash 03_cellranger.sh
+bash 03_run_cellranger.sh
 Rscript Control_a.R
 #或者运行Rscript Control.R
 Rscript clear.R
