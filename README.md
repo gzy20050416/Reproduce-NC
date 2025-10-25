@@ -22,9 +22,9 @@ NC/
 
 在终端界面按以下运行代码即可
 ```text
-bash 01*
-bash 02*
-bash 03*
+bash 01_download.sh
+bash 02_make_csv.sh
+bash 03_cellranger.sh
 Rscript Control_a.R
 #或者运行Rscript Control.R
 Rscript clear.R
