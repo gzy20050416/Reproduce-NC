@@ -2,6 +2,8 @@
 ```text
 md5sum "yourdata"
 ```
+cellranger运行时需要规范命名，已进行改名
+
 主要工作目录如下，已在env文件写好相对路径
 ```text
 NC/
@@ -15,3 +17,15 @@ NC/
 ├── Ranalyze/
 └── software/
     └── cellranger-9.0.1/
+```
+如不支持进行上游复现，control_a是对作者发布在geo数据库上数据进行处理，也可运行
+
+在终端界面按以下运行代码即可
+```text
+bash 01*
+bash 02*
+bash 03*
+Rscript Control_a.R
+#或者运行Rscript Control.R
+Rscript clear.R
+```
