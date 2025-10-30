@@ -1,6 +1,6 @@
 文献链接
 
-https://www.nature.com/articles/s41467-021-27232-5#data-availability
+https://www.nature.com/articles/s41467-021-27232-5
 
 注意下载的fastq.gz文件的完整性，与ENA网站的md5校验之进行比对是否一致
 ```text
