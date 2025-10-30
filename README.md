@@ -20,6 +20,7 @@ NC/
 │   └── refdata/
 ├── Bcell_count
 ├── Ranalyze/
+│   └── raw/
 └── software/
     └── cellranger-9.0.1/
 ```
