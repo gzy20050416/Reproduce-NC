@@ -1,3 +1,7 @@
+文献链接
+
+https://www.nature.com/articles/s41467-021-27232-5#data-availability
+
 注意下载的fastq.gz文件的完整性，与ENA网站的md5校验之进行比对是否一致
 ```text
 md5sum "yourdata"
@@ -18,6 +22,7 @@ NC/
 └── software/
     └── cellranger-9.0.1/
 ```
+
 如不支持进行上游复现，control_a是对作者发布在geo数据库上数据进行处理，也可运行
 
 在终端界面按以下运行代码即可
