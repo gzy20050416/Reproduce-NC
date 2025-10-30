@@ -11,7 +11,7 @@ library(Seurat)
 library(Matrix)
 library(dplyr)
 library(biomaRt)
-data_dir <- "~/NC/Bcell_run_fix_3/outs/filtered_feature_bc_matrix"
+data_dir <- "~/NC/Bcell_counts/outs/filtered_feature_bc_matrix"
 # ---------------------------
 # Step 1. 读取10x矩阵
 # ---------------------------
