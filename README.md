@@ -26,7 +26,7 @@ NC/
 ```
 
 如不支持进行上游复现，control_a是对作者发布在geo数据库上数据进行处理，也可运行
-将下载作者的以下文件
+访问https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168158，将下载作者的以下文件
 ```text
 GSM5130034_WT_1_singlecell_gex_raw_counts.txt.gz	
 GSM5130034_WT_2_singlecell_gex_raw_counts.txt.gz	
@@ -35,6 +35,7 @@ GSM5130035_WT_2_singlecell_adt_raw_counts.txt.gz
 GSM5130036_WT_1_singlecell_hto_raw_counts.txt.gz	
 GSM5130036_WT_2_singlecell_hto_raw_counts.txt.gz	
 ```
+将以上结果保存到Ranalyze/raw
 
 在终端界面按以下运行代码即可
 ```text
