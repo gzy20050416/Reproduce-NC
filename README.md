@@ -26,7 +26,7 @@ NC/
 ```
 
 如不支持进行上游复现，control_a是对作者发布在geo数据库上数据进行处理，也可运行
-访问https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168158，将下载作者的以下文件
+GEO数据号为GSE168158，将下载作者的以下文件
 ```text
 GSM5130034_WT_1_singlecell_gex_raw_counts.txt.gz	
 GSM5130034_WT_2_singlecell_gex_raw_counts.txt.gz	
