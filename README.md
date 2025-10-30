@@ -45,6 +45,5 @@ bash 03_run_cellranger.sh
 Rscript Control_a.R
 #或者运行下面这个若无法进行上面的分析
 #Rscript Control.R
-#若也无法处理，也可直接使用rds文件运行画图代码
 Rscript clear.R
 ```
